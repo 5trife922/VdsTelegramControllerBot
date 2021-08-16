@@ -4,18 +4,18 @@
 ----------
 [arch]
 
-pacman -S python
-pacman -S python-pip
-pip install telebot
-pip install PyTelegramBotAPI
+pacman -S python;
+pacman -S python-pip;
+pip install telebot;
+pip install PyTelegramBotAPI;
 
 ----------
 [debian]
 
-apt install python
-apt install pip
-pip install telebot
-pip install PyTelegramBotAPI
+apt install python;
+apt install pip;
+pip install telebot;
+pip install PyTelegramBotAPI;
 
 в случае возникновения ошибок следует переустановить или обновить  telebot(PyTelegramBotAPI)
 
